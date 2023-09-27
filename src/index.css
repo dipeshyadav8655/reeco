@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.grid-container {
+    margin-top:20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    display: grid;
+    grid-template-columns: repeat(14, 110px);
+    border:1px solid #7D7C7C;
+    gap:5px
+  }
+  .grid-items{
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 10px;
+    text-align: center;
+    height: auto;
+    word-wrap: break-word;
+  }
+  .item-two{
+    grid-column-start: 2;
+    grid-column-end: 4;
+    padding: 20px;
+  }
+  .item-seven{
+    grid-column-start: 8;
+    grid-column-end: 10;
+    padding: 20px;
+  }
+  .item-list{
+    margin-top: 0px;
+  }
