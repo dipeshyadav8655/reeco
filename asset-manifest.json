@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reeco/static/css/main.ee9f2af8.css",
+    "main.js": "/reeco/static/js/main.dca9f351.js",
+    "static/js/787.94bc004f.chunk.js": "/reeco/static/js/787.94bc004f.chunk.js",
+    "static/media/Avocado Hass.jpg": "/reeco/static/media/Avocado Hass.b65e885eec2bd4bdfdf5.jpg",
+    "index.html": "/reeco/index.html",
+    "main.ee9f2af8.css.map": "/reeco/static/css/main.ee9f2af8.css.map",
+    "main.dca9f351.js.map": "/reeco/static/js/main.dca9f351.js.map",
+    "787.94bc004f.chunk.js.map": "/reeco/static/js/787.94bc004f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee9f2af8.css",
+    "static/js/main.dca9f351.js"
+  ]
+}
